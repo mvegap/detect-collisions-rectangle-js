@@ -1,0 +1,1 @@
+# Detect collisions of rectangles
